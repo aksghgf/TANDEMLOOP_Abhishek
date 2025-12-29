@@ -1,7 +1,3 @@
-TANDEMLOOP — Screening Test Solutions (Full Stack Developer)
-
-This repository contains my solutions to the Screening Test (Stage 1) for the Full Stack Developer position at Tandemloop.
-
 All four problems are solved using Python, and each problem is placed in a separate file as instructed.
 
 Files in this Repository
